@@ -1,24 +1,18 @@
 # Physics Helper
 
-**Physics Helper (C++ Project)** is a modular program that allows anyone to calculate popular physics formulas in **Mechanics, Kinematics, and Gravitation**. The program features:  
+**Physics Helper (C++ Project)** is a modular console-based application that allows users to calculate commonly used physics formulas in **Mechanics, Kinematics, and Gravitation**. The project is designed with clean and readable C++ code, making it easy to understand, use, and extend.
 
-- **Dynamic input handling** – enter any values for variables.  
-- **Menu-driven interface** – easily select topics and formulas.  
-- **Modular functions** – organized and maintainable code for easy expansion.  
+The program uses a **menu-driven interface** where users can select a physics topic, choose a formula, and provide input values dynamically. Based on the input, the program computes and displays accurate results instantly. The internal structure follows a **modular design**, with separate functions and files for each physics domain, ensuring maintainability and scalability.
 
-This project is **open for everyone**: students, educators, or anyone interested in physics and programming. You can **clone, compile, and run it locally** with a C++ compiler.  
+Physics Helper is **open for everyone**—students, beginners, and educators can use it to learn physics concepts through programming. Anyone can clone the repository, compile the source code using a C++ compiler (such as `g++`), and run the program locally on their system.
 
-GitHub repository: [Physics Helper](https://github.com/sameer-sde/PhysicsHelper)
+To run the program, compile all source files using:
+`g++ src/*.cpp -Iinclude -o PhysicsHelper`
 
+Then execute the generated file to start the menu-based Physics Helper application.
 
-## Features
-- Modular design for easy expansion  
-- Dynamic calculations based on user input  
-- Popular physics formulas included  
-- Clean and maintainable code structure 
+GitHub Repository: [Physics Helper](https://github.com/sameer-sde/PhysicsHelper)
 
-
-You can run this program locally on your computer using a **C++ compiler** (like g++).
 
 
 
