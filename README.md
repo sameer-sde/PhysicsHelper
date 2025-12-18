@@ -18,11 +18,7 @@ GitHub repository: [Physics Helper](https://github.com/sameer-sde/PhysicsHelper)
 - Clean and maintainable code structure 
 
 
-You can run this program locally on your computer using a **C++ compiler** (like g++). Follow these steps:
+You can run this program locally on your computer using a **C++ compiler** (like g++).
 
-1. **Clone the repository**  
-cd PhysicsHelper
-g++ src/*.cpp -Iinclude -o PhysicsHelper.exe
-PhysicsHelper.exe
 
 
